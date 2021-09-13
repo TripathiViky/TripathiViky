@@ -7,7 +7,7 @@
 - :shipit: I also have a very solid knowledge in [Java 11](https://www.oracle.com/java/technologies/javase-downloads.html) and above 
 - 🎓 You can find my complete CV [here](https://www.linkedin.com/in/vikas--tripathi/)
 - 📚 Studied at Gujarat Technological University [GTU](https://www.gtu.ac.in/)
-- 📫 How to reach me: vikastripathi.2012@gmail.com or vikytripathi@outlook.com
+- 📫 How to reach me: vikytripathi@outlook.com
 
 ### Languages and Tools:
 
