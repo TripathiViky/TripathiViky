@@ -1,5 +1,5 @@
 
-### Hi, i am VIKAS TRIPATHI [![Linkedin: Vikas Tripathi](https://img.shields.io/badge/-VikasTripathi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vikas--tripathi/)](https://www.linkedin.com/in/vikas--tripathi/) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi, I am VIKAS TRIPATHI [![Linkedin: Vikas Tripathi](https://img.shields.io/badge/-VikasTripathi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vikas--tripathi/)](https://www.linkedin.com/in/vikas--tripathi/) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <p align="left"> An extremely motivated programmer, who is constantly developing his skills to become a professional. Confident about my ability to come up with innovative ideas to achieve the perfect outcome. Try me :)
 
